@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">A passionate Cloud Engineer.</h3>
 
-- 🌱 I’m currently learning **Azure**
-
 - 📫 How to reach me **ayberkdikcinar@gmail.com**
 - 📫 How to read me **<a href="https://linkedin.com/in/ayberkdikcinar" target="blank">https://medium.com/@ayberkdikcinar</a>**
 
